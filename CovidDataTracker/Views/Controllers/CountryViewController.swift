@@ -215,8 +215,6 @@ class CountryViewController: UIViewController {
         
         
         BarChart.animate(xAxisDuration: 1.0, yAxisDuration: 1.0, easingOption: .easeInOutQuart)
-        
-        print(country.code)
     }
     
 
